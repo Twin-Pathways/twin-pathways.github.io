@@ -11,7 +11,7 @@
   "about": {
     "summary": [
       "Genie5 turns a biomedical research question into a directed, evidence-backed map of gene regulation. Statistical analysis can reveal that two genes are linked, but rarely which one regulates the other, so researchers still settle the question by hand-searching the literature, one gene pair at a time.",
-      "Genie5 automates that review. It collects evidence from scientific papers and curated biological databases, reconciles conflicting reports, and determines the direction and type of each interaction, such as activation or repression. Researchers receive an interactive 2D/3D network that they can explore, verify, and export to their existing analysis tools."
+      "Genie5 automates that review. It collects evidence from scientific papers and curated biological databases, reconciles conflicting reports, and determines the direction and type of each interaction, such as activation or repression. Researchers receive an interactive 2D/3D network that they can explore, verify, and export to their existing tools, including CRNA for analysis on their own expression data."
     ]
   },
   "team": [
